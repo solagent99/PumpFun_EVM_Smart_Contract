@@ -1,8 +1,3 @@
-<center>
-<img src="./logo/pumpfunlogo.jpg" width="200"/>
-<img src="./logo/dxfun.svg" width="200"/>
-</center>
-
 The Solana adaptation is currently undergoing a phased update, while the Bitcoin adaptation has been finalized and is poised for imminent release.
 
 ## Pump.fun/Dx.fun Smart Contract
@@ -21,5 +16,4 @@ Please understand if your forked code encounters issues. Certain sensitive eleme
 
 Should you wish to gain access to the Pump.fun smart contract or have any inquiries, feel free to contact me via:
 
-[Telegram](https://t.me/tarpan_tg) or @tarpan_web3 on Discord
-
+[Telegram](https://t.me/shinnyleo0912)
